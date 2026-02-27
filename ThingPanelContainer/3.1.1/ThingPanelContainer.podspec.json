@@ -6,7 +6,7 @@
     "dependencies": {
         "RNApi/Core": [],
         "React": [
-            "~> 0.59.10"
+            "0.84.0"
         ],
         "TRCTKit": [],
         "ThingAPMService": [],

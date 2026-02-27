@@ -34,7 +34,7 @@
         ],
         "Reachability": [],
         "React": [
-            "0.59.11.1"
+            "0.84.0"
         ],
         "SQLCipher": [],
         "SQLCipher/common": [],

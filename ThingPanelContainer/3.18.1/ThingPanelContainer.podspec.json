@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "React": [
-      "~> 0.84"
+      "0.84.0"
     ],
     "ThingAPMService": [
 
